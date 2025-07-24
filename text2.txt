@@ -1,0 +1,10 @@
+git clone path
+git cd repo name
+add file
+text 2 will be untracted
+to add text2 into staging area use command" gid add text2.txt"
+then we want to store it in local repo "git commit -m"commitmsg"
+now it will be stored in a local repository
+then move to remote repository
+git push origin manjuramalingam796
+
