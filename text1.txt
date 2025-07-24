@@ -1,0 +1,3 @@
+git config --global user.name "GithubCommands"
+git config --global user.email "manjuramalingam796@gmail.com"
+git clone "path"
