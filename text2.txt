@@ -7,5 +7,6 @@ then we want to store it in local repo "git commit -m"commitmsg"
 now it will be stored in a local repository
 then move to remote repository
 git push origin manjuramalingam796
-git status command is used to track the files
+//git status command is used to track the files
+it is wrong so i comment that
 
